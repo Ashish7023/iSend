@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&family=Cedarville+Cursive&family=Chivo+Mono:ital,wght@0,700;1,600&family=Corben:wght@700&family=Edu+QLD+Beginner&family=IBM+Plex+Sans:ital,wght@1,700&family=Noto+Sans:wght@800&family=Open+Sans&family=PT+Sans:ital@1&family=Poppins:ital,wght@0,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: #717775;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
