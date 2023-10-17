@@ -1,5 +1,5 @@
 import React from "react";
-import google from "../assets/search.png";
+import google from "../../assets/search.png";
 const Footer = () => {
   return (
     <div className="flex flex-col justify-center	basis-1/4 items-center">
@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="text-xl mx-4 text-[#717775]">Sign in With Google</p>
       </div>
       <p className="text-xl my-12 text-[#717775] tracking-wide">
-        New iSend ?<a className="text-[#b4c3be] hover:text-blue-600" href="asdfdasdffdsdfv">Create Account</a>
+        New iSend ?<a className="text-[#b4c3be] hover:text-blue-600" href="sign">Create Account</a>
       </p>
     </div>
   );

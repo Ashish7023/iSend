@@ -1,5 +1,5 @@
 import React from "react";
-import bottombg from "../assets/bottom bg.png";
+import bottombg from "../../assets/bottom bg.png";
 const Logo = () => {
   return (
     <>
