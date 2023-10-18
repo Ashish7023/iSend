@@ -6,7 +6,7 @@ import Footer from "./Footer";
 const SignRight = () => {
   return (
     <div className="loginright text-3xl font-bold basis-1/2 bg-white flex flex-col ">
-      <Logo />
+      <Logo  name="sign"/>
       <InputField />
       <div className="flex basis-items-center">
         <hr className="flex-grow border-t border-gray-300" />

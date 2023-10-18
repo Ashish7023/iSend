@@ -1,7 +1,6 @@
 import React from "react";
-import SignLeft from "../components/Sign/SignLeft";
-import SignRight from "../components/Sign/SignRight";
-
+import SignLeft from "../components/authentication/Sign/SignLeft";
+import SignRight from "../components/authentication/Sign/SignRight";
 const Signpage = () => {
   return (
     <>

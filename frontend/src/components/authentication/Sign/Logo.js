@@ -1,6 +1,7 @@
 import React from "react";
-import bottombg from "../../assets/bottom bg.png";
-const Logo = () => {
+import bottombg from "../../../assets/bottom bg.png";
+const Logo = (props) => {
+  console.log(props.name);
   return (
     <>
       <div className="basis-1/5 flex justify-center items-center flex-col">

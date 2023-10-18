@@ -1,5 +1,5 @@
 import React from "react";
-import google from "../../assets/search.png";
+import google from "../../../assets/search.png";
 const Footer = () => {
   return (
     <div className="flex flex-col justify-center	basis-1/4 items-center">
